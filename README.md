@@ -24,3 +24,7 @@ Utilizamos los comandos git add, git commit y git push.
 ## Aprendemos sobre como Atributos
 
 Aprendemos sobre como incorporar Atributos en nuestras etiquetas de HTML
+
+## URL recomendada para aprender HTML
+
+https://www.w3schools.com/
